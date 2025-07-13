@@ -99,3 +99,13 @@ nav ul li a{
 .banner-pro-pic{
     width: 580px;
 }
+/* action */
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 120px 0;
+}
+.wc-mini img{
+    border-radius: 40px;
+    margin-left: 180px;
+}
